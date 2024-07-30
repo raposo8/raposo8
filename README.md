@@ -11,7 +11,7 @@ Eu curso Sistemas de Informação, venho desenvolvendo alguns projetos junto da 
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Victor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Victor-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-   <img align="center" alt="Victor-Roblox" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/roblox/roblox-original.svg">
+   <img align="center" alt="Victor-Luau" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/luau/luau-original.svg">
 </div>
 
 ## Contato
