@@ -1,5 +1,5 @@
 ## Olá, pessoal! 😁👋
-Eu curso Sistemas de Informação, venho desenvolvendo alguns projetos junto da faculdade com iniciações científicas e também projetos pessoais. Atualmente estou realizando projetos a parte com Flutter. Se tiverem alguma sugestão em meus projetos adoraria ouvir!
+Eu curso Sistemas de Informação, venho desenvolvendo alguns projetos junto da faculdade com iniciações científicas e também projetos pessoais. Participei de diversos projetos com desafios diferentes a cada Sprint, utilizando principalmente C#, Flutter e React. Também tenho experiência com CI/CD utilizando AzureDevops. Além disso, manipulo Oracle DataBase.
 
 ## Tecnologias
 <div style="display: inline_block"><br>
